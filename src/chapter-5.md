@@ -1,5 +1,3 @@
-Chapter 4: Understanding ChatGPT
-================================
 
 ChatGPT (Generative Pre-trained Transformer) is an artificial intelligence language model developed by OpenAI that can generate human-like responses based on text-based prompts. In this chapter, we will explore what ChatGPT is, its features and capabilities, and how it can be used to enhance enterprise security.
 

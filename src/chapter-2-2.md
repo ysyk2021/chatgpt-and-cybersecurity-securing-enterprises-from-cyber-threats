@@ -1,5 +1,3 @@
-Different Types of Cyber Threats
-====================================================================
 
 Cybersecurity is a critical concern for enterprises of all sizes, as cyber threats can have a significant impact on business operations. In this chapter, we will discuss the basics of cybersecurity and the different types of cyber threats.
 

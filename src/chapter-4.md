@@ -1,5 +1,3 @@
-Chapter 3: The Role of AI and Chatbots in Cybersecurity
-=======================================================
 
 Artificial intelligence (AI) and chatbots are playing an increasingly important role in the field of cybersecurity. In this chapter, we will explore the use of AI and chatbots in cybersecurity, how they can improve enterprise security, and the benefits of using these technologies for securing enterprises from cyber threats.
 

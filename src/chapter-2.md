@@ -1,5 +1,3 @@
-Chapter 1: Basics of Cybersecurity
-==================================
 
 Cybersecurity is becoming increasingly important as more businesses rely on technology to store and transmit sensitive information. In this chapter, we will cover the basics of cybersecurity, including its definition, different types of cyber threats, and the importance of cybersecurity for businesses.
 

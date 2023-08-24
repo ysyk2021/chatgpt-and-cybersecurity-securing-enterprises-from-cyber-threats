@@ -1,5 +1,3 @@
-Factors Affecting Cybersecurity
-=======================================================================
 
 Cybersecurity is a critical concern for enterprises of all sizes, as cyber threats can have a significant impact on business operations. In this chapter, we will discuss the factors that affect cybersecurity and contribute to the challenges faced by organizations.
 

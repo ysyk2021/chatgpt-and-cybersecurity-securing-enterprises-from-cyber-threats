@@ -1,5 +1,3 @@
-Definition of Cybersecurity
-===============================================================
 
 Cybersecurity refers to the practice of protecting computer systems, networks, and sensitive information from unauthorized access, theft, or damage. It involves a range of technologies, processes, and practices designed to secure digital assets and prevent cyber attacks.
 

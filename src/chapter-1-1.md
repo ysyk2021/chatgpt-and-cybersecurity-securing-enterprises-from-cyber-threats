@@ -1,5 +1,3 @@
-Overview of the Book
-==================================
 
 Background Information on Cybersecurity and the Role of Chatbots
 ----------------------------------------------------------------

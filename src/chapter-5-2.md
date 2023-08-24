@@ -1,5 +1,3 @@
-Features and Capabilities of ChatGPT
-======================================================================
 
 ChatGPT is a powerful tool that can assist organizations in improving their cybersecurity posture. In this chapter, we will discuss the features and capabilities of ChatGPT.
 

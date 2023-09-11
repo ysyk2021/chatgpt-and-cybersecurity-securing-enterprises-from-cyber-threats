@@ -1,5 +1,4 @@
-Chapter: Factors Affecting Cybersecurity
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Cybersecurity is a complex and multifaceted discipline, impacted by various factors. These factors affect the effectiveness of cybersecurity measures and determine the level of protection against cyber threats. In this chapter, we will explore the major factors influencing cybersecurity and examine how ChatGPT can help organizations address them.
 

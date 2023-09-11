@@ -1,5 +1,4 @@
-Chapter: Steps to Implement ChatGPT for Improving Enterprise Security
-=====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will outline the steps involved in implementing ChatGPT to improve enterprise security. These steps provide a structured approach to successfully integrating ChatGPT into existing cybersecurity strategies, enhancing incident response, and mitigating cyber threats.
 

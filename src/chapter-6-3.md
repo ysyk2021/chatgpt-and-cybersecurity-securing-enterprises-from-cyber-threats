@@ -1,5 +1,4 @@
-Chapter: Case Studies of Enterprises that have Successfully Implemented ChatGPT for Cybersecurity
-=================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore case studies of enterprises that have successfully implemented ChatGPT in their cybersecurity strategies. These case studies provide real-world examples of how ChatGPT can enhance cybersecurity measures and prevent cyber attacks.
 

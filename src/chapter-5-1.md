@@ -1,5 +1,4 @@
-Chapter: What is ChatGPT?
-=========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT is an advanced conversational AI model developed by OpenAI. It is built upon the foundation of GPT (Generative Pre-trained Transformer) technology, which has revolutionized natural language processing tasks. ChatGPT specifically focuses on facilitating human-like conversations and providing valuable insights and guidance in the domain of cybersecurity.
 

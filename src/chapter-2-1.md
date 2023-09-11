@@ -1,5 +1,4 @@
-Chapter: Definition of Cybersecurity
-====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Cybersecurity refers to the practice of protecting digital assets, data, and systems from unauthorized access, theft, or damage. It involves a range of measures and strategies used to safeguard computer networks, devices, and sensitive information against cyber threats.
 

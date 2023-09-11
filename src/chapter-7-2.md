@@ -1,5 +1,4 @@
-Chapter: Emerging Trends and Challenges in Cybersecurity and ChatGPT
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As the field of cybersecurity continues to evolve, new trends and challenges emerge that impact the effectiveness and application of ChatGPT in securing enterprises from cyber threats. This chapter explores some of the emerging trends and challenges in cybersecurity and the implications they have on the utilization of ChatGPT.
 

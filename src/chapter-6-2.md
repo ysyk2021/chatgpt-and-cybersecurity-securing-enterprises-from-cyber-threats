@@ -1,5 +1,4 @@
-Chapter: Best Practices for Using ChatGPT in Preventing Cyber Attacks
-=====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the best practices for utilizing ChatGPT in preventing cyber attacks and enhancing cybersecurity measures within enterprises. By following these practices, organizations can leverage ChatGPT effectively while minimizing potential security risks.
 

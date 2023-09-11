@@ -1,5 +1,4 @@
-Chapter: How ChatGPT Can Be Used for Enhancing Enterprise Security
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT, an advanced conversational AI model, can play a significant role in enhancing enterprise security. Its natural language processing capabilities and contextual understanding make it a valuable tool for various cybersecurity applications. This chapter explores how ChatGPT can be utilized to strengthen enterprise security measures.
 

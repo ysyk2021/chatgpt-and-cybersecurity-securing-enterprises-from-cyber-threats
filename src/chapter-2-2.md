@@ -1,5 +1,4 @@
-Chapter: Different Types of Cyber Threats
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Cyber threats come in various forms and can have devastating consequences for businesses. It is crucial for enterprises to understand the different types of cyber threats they may encounter to effectively protect their assets and data. This chapter explores some common types of cyber threats.
 

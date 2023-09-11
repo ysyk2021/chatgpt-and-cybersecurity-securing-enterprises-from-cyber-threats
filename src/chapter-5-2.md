@@ -1,5 +1,4 @@
-Chapter: Features and Capabilities of ChatGPT
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT, an advanced conversational AI model, offers a wide range of features and capabilities that make it a valuable tool for enhancing cybersecurity and securing enterprises from cyber threats. This chapter explores the key features and capabilities of ChatGPT and how they contribute to its effectiveness in addressing cybersecurity challenges.
 
